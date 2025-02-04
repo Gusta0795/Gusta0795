@@ -39,7 +39,7 @@ This project documents a global incident involving a faulty update in antimalwar
 
 ## 📚 What You’ll Find Here
 
-- **Open-source security solutions** tailored to information security needs.
+- **Open-source solutions** tailored to a variety needs.
 - **Scripts and automations** to simplify system administration.
 - **Case studies** in cybersecurity and risk mitigation.
 
